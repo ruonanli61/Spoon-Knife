@@ -1,2 +1,2 @@
-print("Practice")
+print("Try")
 print("Bye")
