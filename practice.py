@@ -1,1 +1,2 @@
-print("Practive")
+print("Practice")
+print("Bye")
